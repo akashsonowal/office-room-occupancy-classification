@@ -10,7 +10,7 @@ The objective of the project is to determine whether a given room is occupied or
 
 ## Data Description:
 
-Dataset: (Occupancy Detection Data Set)[https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection]
+Dataset: [Occupancy Detection Data Set](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection)
 
 Attribute Information:
 
