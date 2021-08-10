@@ -15,13 +15,13 @@ https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection
 Dataset: Occupancy Detection Data Set
 
 Attribute Information:
-- Independent variables
-- Date – date and time of the readings taken for a given room
-- Temperature – temperature of the room in degree Celsius
-- Humidity – relative humidity of the room
-- Light – intensity of light in lux
-- CO2 – carbon dioxide level in the room in ppm
-- HumidityRatio - derived quantity from temperature and relative humidity, in kgwater-vapor/kg-air
+        Independent variables
+        - Date – date and time of the readings taken for a given room
+        - Temperature – temperature of the room in degree Celsius
+        - Humidity – relative humidity of the room
+        - Light – intensity of light in lux
+        - CO2 – carbon dioxide level in the room in ppm
+        - HumidityRatio - derived quantity from temperature and relative humidity, in kgwater-vapor/kg-air
 
-Dependent variables:
-- Occupancy – binary variable (0 if room is not occupied, 1 if occupied)
+        Dependent variables:
+        - Occupancy – binary variable (0 if room is not occupied, 1 if occupied)
