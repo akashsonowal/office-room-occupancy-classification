@@ -4,12 +4,10 @@
 
 The objective of the project is to determine whether a given room is occupied or not, meaning whether there is some person present in the room or not based on various variables. We will be using non-linear models such as Logit and Probit in detecting the Room Occupancy.
 
-The objective of the project is to determine whether a given room is occupied or not, meaning whether there is some person
-present in the room or not based on various variables. We will be using non-linear models such as Logit and Probit in
-detecting the Room Occupancy.
-METHODOLOGY:
-We have used Logit Regression model and Probit Regression Model to predict the Binary Dependent Variable – Occupancy.
-Also, we have used Linear Probability Model to classify the dependent variable to compare linear and non-linear model.
+**Approach:**
+
+- We have used Logit Regression model and Probit Regression Model to predict the Binary Dependent Variable – Occupancy. Also, we have used Linear Probability Model to classify the dependent variable to compare linear and non-linear model.
+
 DATA DESCRIPTION:
 https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+
 Dataset: Occupancy Detection Data Set
