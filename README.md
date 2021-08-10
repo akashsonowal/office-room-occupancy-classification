@@ -1,6 +1,7 @@
 # office-room-occupancy-detection
 
 **Objective:**
+
 The objective of the project is to determine whether a given room is occupied or not, meaning whether there is some person present in the room or not based on various variables. We will be using non-linear models such as Logit and Probit in detecting the Room Occupancy.
 
 The objective of the project is to determine whether a given room is occupied or not, meaning whether there is some person
