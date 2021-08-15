@@ -2,16 +2,16 @@
 
 ## Objective:
 
-The objective of the project is to determine whether a given room is occupied or not, meaning whether there is some person present in the room or not based on various variables. We will be using non-linear models such as Logit and Probit in detecting the Room Occupancy.
+To determine whether a given room is occupied or not, meaning whether there is some person present in the room or not based on various variables.
 
 ## Approach:
 
-- We have used Logit Regression model and Probit Regression Model to predict the Binary Dependent Variable – Occupancy. Also, we have used Linear Probability Model to classify the dependent variable to compare linear and non-linear model.
-- Performed Tests – Variation Inflation Factor (VIF) for multicollinearity check, Variable Significance Test @ 95% level. 
-- Evaluated models on ROC curve, Precision, Recall, F1-Score, Accuracy. 
+- Applied Linear Probability model, Non-Linear Logit and Probit models to predict the Occupancy class. 
+- Used Variation Inflation Factor (VIF) for multicollinearity check, Variable Significance Test with 95% confidence for feature selection. 
+- Evaluated and compared models on ROC curve, Precision, Recall, F1-Score and Accuracy.
 
 ## Result:
-- Obtained accuracy as 0.99, Pseudo R2 0.9034 (Logit) and 0.8942 (Probit) 
+- Obtained accuracy as 0.99, Pseudo R<sup>2</sup> 0.9034 (Logit) and 0.8942 (Probit) 
 
 ## Data Description:
 
