@@ -8,9 +8,10 @@ To determine whether a given room is occupied or not, meaning whether there is s
 
 - Applied Linear Probability model, Non-Linear Logit and Probit models to predict the Occupancy class. 
 - Used Variation Inflation Factor (VIF) for multicollinearity check, Variable Significance Test with 95% confidence for feature selection. 
+- Evaluated and compared models on F1-Score, Accuracy for all models and Pseudo R<sup>2</sup> for non-linear models.
 
 ## Result:
-- Evaluated and compared models on F1-Score and Accuracy; Obtained best accuracy of 0.98, F1-Score of 0.97, Pseudo R<sup>2</sup> of 0.9034 with Logit model.
+- Obtained best accuracy of 0.98, F1-Score of 0.97, Pseudo R<sup>2</sup> of 0.9034 with Logit model.
 
 ## Data Description:
 
