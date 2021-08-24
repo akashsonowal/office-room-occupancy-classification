@@ -1,4 +1,4 @@
-# office-room-occupancy-detection
+# office-room-occupancy-classification
 
 ## Objective:
 
